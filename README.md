@@ -6,6 +6,8 @@ Including several basic python utils like crawler, small language training model
 # 🧠 Small Language Model (SLM) Implementation Guide
 
 This document explains the architecture and logic of the `pytorch_try.py` script. The model is a character-level **Generative Pre-trained Transformer (GPT)** designed to learn patterns in text and generate similar content.
+Credit to https://github.com/mohan696matlab/NLP/blob/main/SLM_self_supervised_training.ipynb
+I modify from his code only, it's not my original work
 
 ---
 
