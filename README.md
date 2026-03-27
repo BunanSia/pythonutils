@@ -77,7 +77,7 @@ To generate text, we provide a "seed" (like a newline character). The model:
 
 ## 🛠️ How to Run Locally
 1. Save the Python script as `main.py`.
-2. Ensure you have PyTorch installed: `pip install torch`.
-3. Run the script: `python main.py`.
+2. Ensure you have PyTorch installed: `pip install -r requirements.txt`.
+3. Run the script: `python pytorch_try.py`. Make sure input.txt is available under the same directory.
 
 > **Note:** On a standard CPU, 5000 iterations may take 5–10 minutes. On a GPU, it will finish in seconds!
